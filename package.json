@@ -1,7 +1,7 @@
 {
     "name": "mortgage-calculator-landing-page",
     "version": "0.1.0",
-    "homepage": "https://helmutgranda.github.io/smart-mortgage-calculator/",
+    "homepage": "https://helmutgranda.github.io/smart-mortgage-calculator",
     "private": true,
     "dependencies": {
         "@radix-ui/react-accordion": "^1.2.3",
