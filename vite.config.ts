@@ -5,6 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
+    base: "/mortgage-calculator-landing-page/",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
